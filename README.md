@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 I'm a full-stack engineer seeking employment.
-- 🔭 I’m currently working on: [Shahrazad](https://shahrazad.vercel.app/) and [My Portfolio](https://liams-h.github.io/)
-- 🌱 I’m currently learning: kubernetes
-- 📫 How to reach me: liamsh@gmail.com
+
+Portfolio: [https://liams-h.github.io/](https://liams-h.github.io/)
+
+Email: liamsh@gmail.com
 
 <!--
 **LiamS-H/LiamS-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
